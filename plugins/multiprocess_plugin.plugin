@@ -1,0 +1,3 @@
+[Core]
+Name = multiprocess_plugin
+Module = multiprocess_plugin
